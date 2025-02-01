@@ -1,4 +1,4 @@
-<h1 tabindex="-1" class="heading-element" dir="auto">Control Color: Multimodal Diffusion-based Interactive Image Colorization</h1>
+<h1 tabindex="-1" class="heading-element" dir="auto">Control Color: Multimodal Diffusion-based Interactive Image Colorization🎨🖌️🖼️</h1>
 
 <h1 tabindex="-1" class="heading-element" dir="auto">🚦 WIP 🚦</h1>
 
